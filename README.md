@@ -27,6 +27,8 @@ Watch the game in action!
 4. Avoid colliding with the walls or yourself.  
 5. The game ends when the snake collides with itself or the walls.  
 
+## Live Demo
+https://furqansnakegame.netlify.app/
 ## Technologies Used
 
 - HTML5  
