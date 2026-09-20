@@ -8,11 +8,6 @@
 
 A classic **Snake Game** built using **HTML, CSS, and JavaScript**. Control the snake using the arrow keys, eat food to grow, and avoid collisions with the walls or yourself. A fun way to practice **DOM manipulation, game logic, and JavaScript programming**.
 
-## Demo
-
-Watch the game in action!  
-*(Optional: Add a screenshot or GIF of your game here)*
-
 ## Features
 
 - Classic Snake Game mechanics  
